@@ -1,3 +1,4 @@
+Live Preview- https://gemini-clone-96d4a1.netlify.app/
 # Gemini Clone Web Application
 
 This project is a clone of the Gemini AI interface, built using React.js.
